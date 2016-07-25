@@ -1,0 +1,42 @@
+body {
+margin: 0;
+padding: 0;
+width: 100%;
+display: table;
+font-weight: 100;
+font-family: 'Lato';
+background: #ecf0f1;
+}
+th{
+text-align: center;
+color: red;
+}
+.nav{
+    margin-right:auto; 
+}
+.container {
+text-align: center;
+display: table-cell;
+}
+.footer {
+text-align: center;
+background: #2ecc71;
+border: 0.25px solid  #c0392b;
+margin-top:auto;
+}
+.bottom{
+margin-left: auto;
+color :FFFF99;
+}
+.header{
+font-size: 14px;
+background: #BEBEBE;
+border: 0.25px solid  #c0392b;
+}
+.title{
+font-size: 50px;
+color: #c0392b;
+}
+.dropdown {
+text-right;
+}
